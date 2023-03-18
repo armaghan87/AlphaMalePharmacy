@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="981" viewBox="0 0 1200 981">
+  <g id="table" transform="translate(-360 -7113)">
+    <path id="Rectangle_1190" data-name="Rectangle 1190" d="M20,0H1180a20,20,0,0,1,20,20V123a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V20A20,20,0,0,1,20,0Z" transform="translate(360 7113)" fill="#f4f4f4"/>
+    <rect id="Rectangle_1191" data-name="Rectangle 1191" width="1200" height="83" transform="translate(360 7248)" fill="#cce1ff"/>
+    <rect id="Rectangle_1192" data-name="Rectangle 1192" width="1200" height="83" transform="translate(360 7345)" fill="#f4f4f4"/>
+    <rect id="Rectangle_1193" data-name="Rectangle 1193" width="1200" height="83" transform="translate(360 7438)" fill="#cce1ff"/>
+    <rect id="Rectangle_1195" data-name="Rectangle 1195" width="1200" height="83" transform="translate(360 7533)" fill="#f4f4f4"/>
+    <rect id="Rectangle_1202" data-name="Rectangle 1202" width="1200" height="83" transform="translate(360 7631)" fill="#cce1ff"/>
+    <rect id="Rectangle_1198" data-name="Rectangle 1198" width="1200" height="83" transform="translate(360 7724)" fill="#f4f4f4"/>
+    <rect id="Rectangle_1205" data-name="Rectangle 1205" width="1200" height="83" transform="translate(360 7820)" fill="#f4f4f4"/>
+    <rect id="Rectangle_1199" data-name="Rectangle 1199" width="1200" height="83" transform="translate(360 7819)" fill="#cce1ff"/>
+    <rect id="Rectangle_1200" data-name="Rectangle 1200" width="1200" height="83" transform="translate(360 7914)" fill="#f4f4f4"/>
+    <path id="Rectangle_1201" data-name="Rectangle 1201" d="M0,0H1200a0,0,0,0,1,0,0V63a20,20,0,0,1-20,20H20A20,20,0,0,1,0,63V0A0,0,0,0,1,0,0Z" transform="translate(360 8011)" fill="#cce1ff"/>
+    <text id="Traditional_In-Person_Treament" data-name="Traditional In-Person
+Treament" transform="translate(1069 7168)" font-size="25" font-family="Rubik-Medium, Rubik" font-weight="500"><tspan x="-127" y="0">Traditional In-Person</tspan><tspan x="-57" y="30">Treament</tspan></text>
+    <text id="In_person_assessment" data-name="In person assessment" transform="translate(614 7296)" font-size="25" font-family="Rubik-Medium, Rubik" font-weight="500"><tspan x="-131" y="0">In person assessment</tspan></text>
+    <text id="Yes" transform="translate(1065 7300)" fill="#383838" font-size="30" font-family="Rubik-Regular, Rubik"><tspan x="-24" y="0">Yes</tspan></text>
+    <text id="Yes-2" data-name="Yes" transform="translate(1065 7400)" fill="#383838" font-size="30" font-family="Rubik-Regular, Rubik"><tspan x="-24" y="0">Yes</tspan></text>
+    <text id="Yes-3" data-name="Yes" transform="translate(1065 7496)" fill="#383838" font-size="30" font-family="Rubik-Regular, Rubik"><tspan x="-24" y="0">Yes</tspan></text>
+    <text id="No" transform="translate(1065 7587)" fill="#383838" font-size="30" font-family="Rubik-Regular, Rubik"><tspan x="-19" y="0">No</tspan></text>
+    <text id="Limited" transform="translate(1065 7685)" fill="#383838" font-size="30" font-family="Rubik-Regular, Rubik"><tspan x="-52" y="0">Limited</tspan></text>
+    <text id="Yes-4" data-name="Yes" transform="translate(1065 7776)" fill="#383838" font-size="30" font-family="Rubik-Regular, Rubik"><tspan x="-24" y="0">Yes</tspan></text>
+    <text id="_2-3_hours" data-name="2-3 hours" transform="translate(1069 7966)" fill="#383838" font-size="30" font-family="Rubik-Regular, Rubik"><tspan x="-68" y="0">2-3 hours</tspan></text>
+    <text id="_300-_500" data-name="$300-$500" transform="translate(1069 8063)" fill="#383838" font-size="30" font-family="Rubik-Regular, Rubik"><tspan x="-81" y="0">$300-$500</tspan></text>
+    <text id="_100-_150_month" data-name="$100-$150/month" transform="translate(1074 7871)" fill="#383838" font-size="30" font-family="Rubik-Regular, Rubik"><tspan x="-128" y="0">$100-$150/month</tspan></text>
+    <text id="Sharing_private_personal_information" data-name="Sharing private/personal
+information" transform="translate(614 7380)" font-size="25" font-family="Rubik-Medium, Rubik" font-weight="500"><tspan x="-151" y="0">Sharing private/personal</tspan><tspan x="-71" y="30">information</tspan></text>
+    <text id="Personal_interaction" data-name="Personal interaction" transform="translate(614 7476)" font-size="25" font-family="Rubik-Medium, Rubik" font-weight="500"><tspan x="-122" y="0">Personal interaction</tspan></text>
+    <text id="Direct_delivery" data-name="Direct delivery" transform="translate(614 7577)" font-size="25" font-family="Rubik-Medium, Rubik" font-weight="500"><tspan x="-88" y="0">Direct delivery</tspan></text>
+    <text id="Affordable_treatment_options" data-name="Affordable treatment options" transform="translate(614 7679)" font-size="25" font-family="Rubik-Medium, Rubik" font-weight="500"><tspan x="-175" y="0">Affordable treatment options</tspan></text>
+    <text id="Insurance_required" data-name="Insurance required" transform="translate(614 7774)" font-size="25" font-family="Rubik-Medium, Rubik" font-weight="500"><tspan x="-114" y="0">Insurance required</tspan></text>
+    <text id="Estimated_additional_expenses" data-name="Estimated additional expenses" transform="translate(614 7865)" font-size="25" font-family="Rubik-Medium, Rubik" font-weight="500"><tspan x="-185" y="0">Estimated additional expenses</tspan></text>
+    <text id="Time_spent_for_assessment_treatment" data-name="Time spent for assessment/treatment" transform="translate(613 7964)" font-size="25" font-family="Rubik-Medium, Rubik" font-weight="500"><tspan x="-230" y="0">Time spent for assessment/treatment</tspan></text>
+    <text id="Average_mostly_cost_12_months_" data-name="Average mostly cost  (12 months)" transform="translate(614 8061)" font-size="25" font-family="Rubik-Medium, Rubik" font-weight="500"><tspan x="-199" y="0" xml:space="preserve">Average mostly cost  (12 months)</tspan></text>
+    <text id="ED_Pills_Online" data-name="ED Pills Online" transform="translate(1410 7190)" fill="#171717" font-size="30" font-family="Rubik-Bold, Rubik" font-weight="700"><tspan x="-123" y="0">ED PILLS </tspan><tspan y="0" font-size="29">ONLINE</tspan></text>
+    <text id="NO-2" data-name="NO" transform="translate(1410 7301)" fill="#030303" font-size="30" font-family="Rubik-Medium, Rubik" font-weight="500"><tspan x="-21" y="0">NO</tspan></text>
+    <text id="Health_Info_Only" data-name="Health Info Only" transform="translate(1410 7397)" fill="#030303" font-size="30" font-family="Rubik-Medium, Rubik" font-weight="500"><tspan x="-115" y="0">Health Info Only</tspan></text>
+    <text id="NO-3" data-name="NO" transform="translate(1410 7492)" fill="#030303" font-size="30" font-family="Rubik-Medium, Rubik" font-weight="500"><tspan x="-21" y="0">NO</tspan></text>
+    <text id="NO-4" data-name="NO" transform="translate(1410 7776)" fill="#030303" font-size="30" font-family="Rubik-Medium, Rubik" font-weight="500"><tspan x="-21" y="0">NO</tspan></text>
+    <text id="NONE" transform="translate(1410 7872)" fill="#030303" font-size="30" font-family="Rubik-Medium, Rubik" font-weight="500"><tspan x="-40" y="0">NONE</tspan></text>
+    <text id="_78" data-name="$78" transform="translate(1410 8063)" fill="#030303" font-size="30" font-family="Rubik-Medium, Rubik" font-weight="500"><tspan x="-27" y="0">$78</tspan></text>
+    <text id="_5_minutes_or_less" data-name="5 minutes or less" transform="translate(1411 7964)" fill="#030303" font-size="25" font-family="Rubik-Medium, Rubik" font-weight="500"><tspan x="-102" y="0">5 minutes or less</tspan></text>
+    <text id="YES-5" data-name="YES" transform="translate(1410 7585)" fill="#030303" font-size="30" font-family="Rubik-Medium, Rubik" font-weight="500"><tspan x="-28" y="0">YES</tspan></text>
+    <text id="YES-6" data-name="YES" transform="translate(1414 7674)" fill="#030303" font-size="32" font-family="Rubik-Medium, Rubik" font-weight="500"><tspan x="-30" y="0">YES</tspan></text>
+    <text id="_Up_to_90_savings_" data-name="(Up to 90% savings)" transform="translate(1412 7700)" fill="#030303" font-size="15" font-family="Rubik-Medium, Rubik" font-weight="500"><tspan x="-71" y="0">(Up to 90% savings)</tspan></text>
+    <rect id="Rectangle_1203" data-name="Rectangle 1203" width="12" height="981" transform="translate(887 7113)" fill="#fff"/>
+    <rect id="Rectangle_1204" data-name="Rectangle 1204" width="12" height="981" transform="translate(1245 7113)" fill="#fff"/>
+  </g>
+</svg>
